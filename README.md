@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @El-Borrego
+- 👋 Hi, I’m @El-Borrego (Jay)
 
 - 🌱 I’m currently learning ...
           JavaScript... trying to nail the basics down before I start messing with stuff like
